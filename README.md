@@ -1,3 +1,3 @@
 # demo
 My first demo repository.<br>
-Author - Robin Poddar Partha
+Author - Robin Poddar (Partha)
